@@ -1,0 +1,36 @@
+.swipeButton{
+    position: fixed;
+    bottom: 8vh;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+ }
+ .swipeButton .ct{
+     background-color: white;
+     box-shadow: 0px 10px 53px 0px black !important;
+ }
+ .rep{
+     padding: 2vw !important;
+     color: orange !important;
+
+ }
+ .close{
+    padding: 2vw !important;
+    color: palevioletred !important;
+
+}
+.fav{
+    padding: 2vw !important;
+    color:skyblue !important;
+
+}
+.sr{
+    padding: 2vw !important;
+    color: orange !important;
+
+}
+ .fo{
+     padding: 2vw !important;
+     color: orange !important;
+
+ }
